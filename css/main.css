@@ -1,0 +1,31 @@
+a {
+    text-decoration: none;
+}
+
+.boxes .card-bg {
+    background-color: #cfcccc;
+}
+.doctors .card-bg {
+    background-color: #dddddd;
+}
+.social-area a:hover{
+    background: rgb(33, 108, 179);
+    color: #fff;
+}
+.social-area a:hover .bi {
+    color: #fff;
+}
+.appointment-area img{
+    margin-top: -140px;
+}
+.appointment-area {
+    margin-top: 100px;
+}
+
+
+@media screen and (min-width: 768px) {
+    .news-input {
+        width: 50%;
+    }
+    
+}
